@@ -1,0 +1,98 @@
+﻿body {
+    background-color: #050179;
+}
+
+ul.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li.nav-bar {
+    float: left;
+    position: relative;
+    right: -40%;
+}
+
+    li.nav-bar a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 50px;
+        text-decoration: none;
+    }
+
+div.book-search {
+    color: white;
+    position: fixed;
+    bottom: 69%;
+    left: 3%;
+}
+
+.btn-search {
+    position: relative;
+    left: 65%;
+}
+
+div.search-results {
+    position: absolute;
+    bottom: 47%;
+    right: 49%;
+    height: 293px;
+    width: 327px;
+}
+
+
+div.author-info {
+    color: white;
+    width: 350px;
+    height: 175px;
+    position: absolute;
+    top: 194px;
+    left: 1018px;
+    margin-left: 0px;
+}
+
+div.author-discovery {
+    color: white;
+    position: absolute;
+    left: 34%;
+    bottom: 24%;
+    height: 134px;
+    width: 279px;
+}
+
+div.lang-list {
+    position: fixed;
+    top: 62%;
+    color: white;
+    left: 6px;
+    height: 192px;
+}
+
+h2.list1 {
+    position: fixed;
+    left: 1%;
+    top: 70%;
+}
+
+h2.list2 {
+    position: fixed;
+    left: 1%;
+    top: 75%;
+}
+
+h2.list3 {
+    position: fixed;
+    left: 1%;
+    top: 80%;
+}
+
+h2.list4 {
+    position: fixed;
+    left: 1%;
+    top: 85%;
+}
+

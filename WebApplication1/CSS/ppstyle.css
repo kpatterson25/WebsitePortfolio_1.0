@@ -1,0 +1,42 @@
+﻿body {
+    background-color: #050179;
+}
+
+ul.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li.nav-bar {
+    float: left;
+    position: relative;
+    right: -40%;
+}
+
+    li.nav-bar a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 50px;
+        text-decoration: none;
+    }
+
+div.project-list {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+}
+
+    div.project-list a {
+        color: white;
+        text-decoration: none;
+    }
+
+h1.pl-options {
+    color: white;
+    font-size: 15px;
+}
